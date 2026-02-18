@@ -6,7 +6,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "vip-db"
-database_id = "ISI_DATABASE_ID"
+database_id = "4408b2f3-021a-4afd-a723-cd40721467d8"
 
 [triggers]
 crons = ["*/5 * * * *"]
