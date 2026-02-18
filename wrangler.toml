@@ -1,1 +1,12 @@
 
+name = "vip-bot"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vip-db"
+database_id = "ISI_DATABASE_ID"
+
+[triggers]
+crons = ["*/5 * * * *"]
